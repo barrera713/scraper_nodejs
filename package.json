@@ -1,0 +1,14 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Web scraper using node.js and puppeteer",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Barrera",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^4.0.1"
+  }
+}
